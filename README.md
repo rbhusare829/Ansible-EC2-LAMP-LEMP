@@ -4,7 +4,7 @@
 This project demonstrates how to **automatically install and configure a LAMP stack (Linux, Apache, MariaDB, PHP)** on a **target server** using **Ansible**. The deployment also includes serving a custom `index.html` page to verify successful setup.
 
 ---
-/[](./img/LAMP-LEMP.png)
+![](./img/LAMP-LEMP.png)
 ## 🧩 Project Overview
 
 This repository contains **two server automation projects using Ansible**:
